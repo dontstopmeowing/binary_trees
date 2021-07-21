@@ -3,7 +3,7 @@
 /**
  * tree_height - find height of binary tree using recursion
  * @tree: pointer to the root node of the tree to traverse
- * @h: height of given tree
+ * @height: height of given tree
  * Return: height of a tree otherwise the given tree value.
 */
 
