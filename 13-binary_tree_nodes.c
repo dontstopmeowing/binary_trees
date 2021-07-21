@@ -14,7 +14,7 @@ int binary_tree_is_leaf(const binary_tree_t *node)
 }
 
 /**
- * binary_tree_leaves -  function that counts the nodes
+ * binary_tree_nodes -  function that counts the nodes
  * with at least 1 child in a binary tree
  * @tree: pointer to the node to check
  *
